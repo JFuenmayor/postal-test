@@ -1,2 +1,4 @@
-export * from "./ItemCard";
-export * from "./ItemList";
+import ItemCard from "./ItemCard";
+import VariantCard from "./VariantCard";
+
+export { ItemCard, VariantCard };
